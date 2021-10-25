@@ -1,0 +1,9 @@
+@import url("./Normalize.css");
+
+html {
+  background-color: #222;
+  color: wheat;
+}
+body {
+  padding: 10px;
+}
